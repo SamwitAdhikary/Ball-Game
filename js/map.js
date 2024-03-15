@@ -230,7 +230,7 @@ class LevelMap {
 					'                      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB'
 
 				],
-				rings: 7,
+				rings: 6,
 				enemies: [
 					{
 						x: 5,
